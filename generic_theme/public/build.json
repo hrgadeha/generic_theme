@@ -1,0 +1,8 @@
+{
+	"js/gt.min.js": [
+		"public/js/main.js"
+	],
+	"css/gt.min.css": [
+		"public/css/gt.css"
+	]
+}
